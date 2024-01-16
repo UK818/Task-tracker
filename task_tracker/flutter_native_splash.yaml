@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: images/splash.png
+  android: true
+  ios: true
+  resize_mode: contain
+  title: 
+    text: "Task tracker"
+    position: top
+    color: "#000000"
+    style: poppins-bold
+    size: 36
