@@ -6,6 +6,7 @@ Task Tracker is a simple Flutter application for tracking tasks and deadlines.
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -25,6 +26,21 @@ Task Tracker is a simple Flutter application for tracking tasks and deadlines.
 - [Dart](https://dart.dev/) - Programming language optimized for building mobile, desktop, server, and web applications.
 - [Bloc Library](https://pub.dev/packages/flutter_bloc) - State management library for Flutter applications.
 - [Shared Preferences](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs.
+
+## Screenshots
+<div align="center">
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/0f1dbe92-e0a5-4f13-857f-78efd0a27c82" width="200" />
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/50d332d7-f70e-4157-951f-d6bc861a95ec" width="200" />
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/00658371-45db-4ba1-8d06-4c9f1419d835" width="200" />
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/8858ff59-b01b-4219-b901-0d60e17f5ea8" width="200" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/3f5dc67c-f8c7-413a-b993-ae481da76423" width="200" />
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/35c5ac0d-cfe5-48b3-88df-1bd60d34fbbf" width="200" />
+  <img src="https://github.com/UK818/Task-tracker/assets/32143087/84fd6004-d0e4-4254-87a3-fd6b35a79b23" width="200" />
+</div>
+
 
 ## Getting Started
 
